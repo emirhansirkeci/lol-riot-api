@@ -10,7 +10,7 @@ lol-riot-api is installable via:
 ## Getting started
 To start the API server run the following command:
 ```js
-node run start
+npm run start
 ```
 You will have to do a **one time** configuration to be able to use the API. At the prompt you will be asked for the default API `key` to be used for the calls, the `port` on which the API will run, the default `region` to be used for the API calls and the caching strategy.
 
